@@ -1,4 +1,6 @@
--👋 Hi, I’m Karan Patil
+<h1 align="center">👋 Hi, I’m Karan Patil</h1>
+
+
 
 -🔧 Software Developer passionate about building innovative solutions.
 
